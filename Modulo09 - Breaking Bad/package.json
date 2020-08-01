@@ -1,0 +1,15 @@
+{
+  "name": "modulo9",
+  "version": "1.0.0",
+  "description": "Laboratorio Módulo 9 Bootcamp JavaScript Lemoncode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "author": "Manuel Dorado Serrano",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
